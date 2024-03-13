@@ -6,4 +6,4 @@ profession = input(str("what's your profession?: "))
 hobby = input(str("what's your favorite hobby?: "))
 sport = input(str("what sport do you play?: "))
 
-print("my name is " + name + " " + surname, "i am " + age + " years old,", "i live in " + city,  "my profession is " + profession, "my favorite hobby is " + hobby, "i play " + sport)
+print("my name is " + name + " " + surname, "i am " + age + " years old", "i live in " + city,  "my profession is " + profession, "my favorite hobby is " + hobby, "i play " + sport)
